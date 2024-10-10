@@ -1,0 +1,5 @@
+streamlit
+shiny
+pandas
+pycaret
+scipy==1.9.3

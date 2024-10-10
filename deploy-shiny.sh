@@ -1,0 +1,1 @@
+rsconnect deploy shiny . --name ACCOUNTNAME --title diabetes_prediction
