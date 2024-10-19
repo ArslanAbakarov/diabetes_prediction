@@ -185,6 +185,14 @@ app_ui = ui.page_fluid(
             height: 5px !important;
         }
         
+        .form-label, .shiny-input-container .control-label {
+            # margin-top: 10px;
+        }
+        
+        .form-group {
+            margin-bottom: 23px;
+        }
+        
     """),
       
     ui.tags.head(
